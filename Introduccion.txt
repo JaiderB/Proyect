@@ -1,0 +1,5 @@
+Este es un archivo de texto plano.
+
+La idea es hacer cambios por medio de Git.
+
+Esto sin afectar a las versiones anteriores.
