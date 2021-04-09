@@ -4,4 +4,4 @@ La idea es realizar cambios por medio de nuestra herramienta de versiones: Git.
 
 Esto, en una nueva versión.
 
-Para de esta forma aprender cosas basicas de git.
+Y utilizando Checkout para reutilizar versiones anteriores.
