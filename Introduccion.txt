@@ -5,5 +5,3 @@ La idea es realizar cambios por medio de nuestra herramienta de versiones: Git.
 Esto, en una nueva versión.
 
 Y utilizando Checkout para reutilizar versiones anteriores.
-
-jeje hola
