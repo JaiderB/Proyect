@@ -33,6 +33,7 @@ body
 
 #container 
 {
+    background-color: #DDD;
     width: 70%;
     padding: 0;
     text-align: left;
@@ -52,7 +53,7 @@ body
 
 #footer
 {
-    background: #777;
+    background-color:saddlebrown;
     color: white;
     text-align: center;
     padding: 0.5em;
