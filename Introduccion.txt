@@ -15,5 +15,3 @@ main 1.
 Está bueno el curso.
 
 Y utilizando Checkout para reutilizar versiones anteriores.
-
-Vamos a probar el cherry-pick.
