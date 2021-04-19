@@ -12,11 +12,6 @@ exp 1.
 
 main 1.
 
-<<<<<<< Updated upstream
-Y utilizando Checkout para reutilizar versiones anteriores.
+Está bueno el curso.
 
-hola
- jeje
-=======
 Y utilizando Checkout para reutilizar versiones anteriores.
->>>>>>> Stashed changes
