@@ -19,3 +19,5 @@ Y utilizando Checkout para reutilizar versiones anteriores.
 Vamos a probar el cherry-pick.
 
 Se supone que al usarlo recuperaremos la línea de texto anterior nada mas, como un commit antiguo recuperado.
+
+Recuerda, cherry-pick es una mala práctica.
