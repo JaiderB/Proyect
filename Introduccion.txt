@@ -12,8 +12,6 @@ exp 1.
 
 main.
 
-
-
 Está bueno el curso.
 
 Y utilizando Checkout para reutilizar versiones anteriores.
