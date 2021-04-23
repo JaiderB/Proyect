@@ -12,7 +12,7 @@ exp 1.
 
 main.
 
-Jaider Camilo Benavides Arias.
+
 
 Está bueno el curso.
 
